@@ -1,3 +1,4 @@
+#Copy Udemy 72
 word_list = [
 'abruptly', 
 'absurd', 
